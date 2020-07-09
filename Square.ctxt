@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=x\ y\ size\ xArray\ yArray
+comment1.target=Square(int,\ int,\ int,\ int,\ int)
+comment10.params=
+comment10.target=void\ removeWall()
+comment2.params=index
+comment2.target=void\ setWallExistFalse(int)
+comment3.params=
+comment3.target=int\ getXArrayLocation()
+comment4.params=
+comment4.target=int\ getYArrayLocation()
+comment5.params=newValue
+comment5.target=void\ setVisited(boolean)
+comment6.params=
+comment6.target=boolean\ getVisited()
+comment7.params=g
+comment7.target=void\ paint(java.awt.Graphics)
+comment8.params=
+comment8.target=void\ findNewTarget()
+comment9.params=
+comment9.target=void\ setCurrentTrue()
+numComments=11
